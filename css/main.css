@@ -13,14 +13,14 @@ main.dark,
 header.dark {
     color-scheme: dark;
     --color-background: #1c1b1f;
-    --color-on-background: grey;
+    --color-on-background: white;
     --color-background-hover: #27262c;
-    --color-on-background-hover: grey;
+    --color-on-background-hover: white;
     --color-primary: #283593;
     --color-primary-disabled: #1f213c;
-    --color-on-primary: grey;
+    --color-on-primary: white;
     --color-error: #de0000;
-    --color-on-error: grey;
+    --color-on-error: red;
 }
 
 html,
