@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "???",
     "records": [
+        {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=o0KKak481Ik&t=30s",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
