@@ -5,7 +5,8 @@
     "creators": ["Kaito"],
     "verifier": "Luned",
     "verification": "https://youtu.be/os5uWlPU3yA",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "???",
-    "records": []
+    "records": [
+    ]
 }
