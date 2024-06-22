@@ -1,0 +1,60 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Riot and more"],
+    "verifier": "Reet",
+    "verification": "https://www.youtube.com/watch?v=N_QHoDbIpps",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "SaYne",
+            "link": "https://www.youtube.com/watch?v=tSOlSfTsNv8",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=PmNi7k2qV18",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=dnU0UFbcljw",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Ajay",
+            "link": "https://www.youtube.com/watch?v=2Dwh6cn2HAU",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=SQta_lxqqEc",
+            "percent": 100,
+            "hz": 330
+        },
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=8EHb1Vn_qAU",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "GDEthan",
+            "link": "https://www.youtube.com/watch?v=fhM_yvhR4lM",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "femboyuk",
+            "link": "https://www.youtube.com/watch?v=NCOcuA8Zncg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
