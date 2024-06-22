@@ -1,0 +1,19 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "CirtraX",
+    "creators": ["CirtraX"],
+    "verifier": "Reet",
+    "verification": "https://www.youtube.com/watch?v=bvKzMSxTVW8",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=pRPsmeBJnoE",
+            "percent": 100,
+            "hz": 240
+        },
+      
+    ]
+}
