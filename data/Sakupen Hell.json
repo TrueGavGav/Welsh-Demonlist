@@ -1,0 +1,18 @@
+{
+    "id": 23262780,
+    "name": "Sakupen Hell",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "SaYne",
+    "verification": "https://www.youtube.com/watch?v=AaOz_IS4QCU",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "GD Ethan",
+            "link": "https://www.youtube.com/watch?v=2fHSu5-SB5w",
+            "percent": 100,
+            "hz": 150
+        }
+    ]
+}
