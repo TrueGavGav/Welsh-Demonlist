@@ -2,18 +2,30 @@
     "id": 59899374,
     "name": "Prismatic Haze",
     "author": "CirtraX",
-    "creators": ["CirtraX"],
+    "creators": ["CirtraX and Gizbro"],
     "verifier": "Reet",
     "verification": "https://www.youtube.com/watch?v=bvKzMSxTVW8",
     "percentToQualify": "100",
     "password": "???",
     "records": [
       {
-            "user": "Drige",
-            "link": "https://www.youtube.com/watch?v=pRPsmeBJnoE",
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=STpvwjkkUgk",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
+        {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=LUVPZTlh9HI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=fhBIFXvb6xA",
+            "percent": 100,
+            "hz": 330
+        }
       
     ]
 }
