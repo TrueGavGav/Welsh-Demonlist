@@ -1,0 +1,24 @@
+{
+    "id": 70406732,
+    "name": "Anahita",
+    "author": "zYuko",
+    "creators": ["zYuko and more"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=oQSraKqVJWg",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/VO9qiFSAph8",
+            "percent": 100,
+            "hz": 144
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=mzMSif7wj6g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
