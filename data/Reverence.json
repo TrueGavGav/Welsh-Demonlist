@@ -1,0 +1,30 @@
+{
+    "id": 63433024,
+    "name": "Reverence",
+    "author": "Woom",
+    "creators": ["Woom & more"],
+    "verifier": "Luned",
+    "verification": "https://youtu.be/pCcZ1EV-DKw",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=ehwYfxq_1Q8",
+            "percent": 100,
+            "hz": 330
+        },
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=b7wGBtdCE_U",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=FVQZK-qEF8I",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
