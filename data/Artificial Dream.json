@@ -1,0 +1,18 @@
+{
+    "id": 38550757,
+    "name": "Artificial Dream",
+    "author": "iIiViRuZiIi",
+    "creators": ["iIiViRuZiIi"],
+    "verifier": "Drige",
+    "verification": "https://www.youtube.com/watch?v=Gts2AC3Vpug",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=hGG8naEQopo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
