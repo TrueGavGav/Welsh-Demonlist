@@ -1,0 +1,24 @@
+{
+    "id": 62551239,
+    "name": "Sigma Interface",
+    "author": "Platnuu",
+    "creators": ["Platnuu"],
+    "verifier": "Luned",
+    "verification": "https://youtu.be/O6SJ5gPI--g",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "SaYne",
+            "link": "https://www.youtube.com/watch?v=6ahRgbobuWg",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=nCpKMZ4Cg9o",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
