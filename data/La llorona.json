@@ -1,0 +1,18 @@
+{
+    "id": 92362284,
+    "name": "La Llorona",
+    "author": "Cherryteam",
+    "creators": ["Cherryteam"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=xjT_620eQCs",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=tX3AHWhVJbk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
