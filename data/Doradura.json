@@ -1,0 +1,18 @@
+{
+    "id": 77114615,
+    "name": "Doradura",
+    "author": "IvashkaUA",
+    "creators": ["IvashkaUA"],
+    "verifier": "Drige",
+    "verification": "https://www.youtube.com/watch?v=P3EoVx62ROY",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=7z6JD9DSuR0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
