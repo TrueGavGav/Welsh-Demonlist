@@ -1,0 +1,18 @@
+{
+    "id": 81744548,
+    "name": "it back",
+    "author": "HangyKing",
+    "creators": ["HangyKing"],
+    "verifier": "Drige",
+    "verification": "https://www.youtube.com/watch?v=2u5uaLpgXDg&t=11s",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=ird_6C7ndBc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
