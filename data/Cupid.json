@@ -1,0 +1,24 @@
+{
+    "id": 69108628,
+    "name": "Cupid",
+    "author": "Vyp",
+    "creators": ["Vyp & more"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=hZGIgHe5jMo",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "femboyuk",
+            "link": "https://www.youtube.com/watch?v=RKrCfkjjey0",
+            "percent": 100,
+            "hz": 240
+       },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=jue-JZz85RQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
