@@ -1,0 +1,19 @@
+{
+    "id": 93549959,
+    "name": "Mystic Bounds",
+    "author": "gmdmann",
+    "creators": ["gmdmann"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=BE8y8R8JCn8",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/RQLXHaozw2k",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
+
