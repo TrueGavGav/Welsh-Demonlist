@@ -1,0 +1,24 @@
+{
+    "id": 62419473,
+    "name": "Diligence",
+    "author": "Davphla",
+    "creators": ["Davphla & more"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=gLkXTDu7Z90",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/qc7NMvc1xX8",
+            "percent": 100,
+            "hz": 144
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=Ydnp7yLF00o",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
