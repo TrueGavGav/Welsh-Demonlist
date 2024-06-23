@@ -1,0 +1,18 @@
+{
+    "id": 60284098,
+    "name": "Maybe Possibly Thing",
+    "author": "iNubble",
+    "creators": ["iNubble and YakobNugget"],
+    "verifier": "Telos",
+    "verification": "https://youtu.be/aGWduRjwugY?si=qao-HymA_Wqu_5dS",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=IAjhUDQjQeo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
