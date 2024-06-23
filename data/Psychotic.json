@@ -1,0 +1,24 @@
+{
+    "id": 89277532,
+    "name": "Psychotic",
+    "author": "ch4rlie03",
+    "creators": ["ch4rlie03"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=-nAaMv7RsSE",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=DPyWrVHwS0A",
+            "percent": 100,
+            "hz": 330
+        },
+      {
+            "user": "Luned",
+            "link": "https://www.youtube.com/watch?v=pRPsmeBJnoE",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
