@@ -1,0 +1,30 @@
+{
+    "id": 32688321,
+    "name": "Incipient",
+    "author": "Jenkins",
+    "creators": ["Jenkins"],
+    "verifier": "Telos",
+    "verification": "https://youtu.be/USooBbD8qmE?si=yS_V3w6g1YWJ-syu",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=UhlBs2wYnCI",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=Wn-twEgeAOs",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=Hm70v_NAcVA",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}
