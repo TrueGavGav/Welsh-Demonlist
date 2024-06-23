@@ -1,0 +1,18 @@
+{
+    "id": 51393047,
+    "name": "Doop",
+    "author": "Metalface221",
+    "creators": ["Metalface221 & more"],
+    "verifier": "Drige",
+    "verification": "https://www.youtube.com/watch?v=wqec9Puwvo8",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/scC9k2znm_E",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
