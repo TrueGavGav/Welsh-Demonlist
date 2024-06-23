@@ -1,0 +1,18 @@
+{
+    "id": 84766628,
+    "name": "Cat Planet",
+    "author": "IcEDCave",
+    "creators": ["IcEDCave"],
+    "verifier": "SaYne",
+    "verification": "https://www.youtube.com/watch?v=-r_TVzEI2w8",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=FyEZufYxt80",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
