@@ -1,0 +1,19 @@
+{
+    "id": 78119012,
+    "name": "ILOVECYAN",
+    "author": "AVRG",
+    "creators": ["AVRG & more"],
+    "verifier": "Unitive kitty",
+    "verification": "https://www.youtube.com/watch?v=-McLIyhKkU4",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=eHY-6I8rYAA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
+
