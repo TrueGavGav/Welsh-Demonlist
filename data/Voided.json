@@ -1,0 +1,19 @@
+{
+    "id": 82598548,
+    "name": "Voided",
+    "author": "JustXSoos",
+    "creators": ["JustXSoos"],
+    "verifier": "Dino",
+    "verification": "https://www.youtube.com/watch?v=5pGlXQctFUQ",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=7-siJ7eQQ0E",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
+
