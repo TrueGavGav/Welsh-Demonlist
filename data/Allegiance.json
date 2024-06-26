@@ -1,0 +1,36 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=HrIKx5mLCN4",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=-cmpBgSSmks",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=6Zg8JQaYsm4",
+            "percent": 100,
+            "hz": 180
+        },
+      {
+            "user": "Robotdinosaur",
+            "link": "https://www.youtube.com/watch?v=r4HiO63SzY8",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=kR2mzxDRcKk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
