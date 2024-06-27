@@ -1,0 +1,24 @@
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwed",
+    "creators": ["Marwed & more"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=gu2P8Ou_msk",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=YLGwc1eLasE",
+            "percent": 100,
+            "hz": 330
+        },
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=A1857JRpxrQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
