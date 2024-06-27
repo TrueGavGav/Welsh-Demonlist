@@ -1,0 +1,66 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": ["Ggb0y"],
+    "verifier": "Sayne",
+    "verification": "https://www.youtube.com/watch?v=_EOm6b0azZo",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Reet",
+            "link": "https://www.youtube.com/watch?v=p7IFlYrAu2s",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=4Pbmz0KiBtM",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=ILS2PB9KIew",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=bqvrnxsLIRw",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Damien",
+            "link": "https://youtu.be/jrzXR6HZ6w8?si=cg7NAflcnZd9mFZ9",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=2M1MTuGcd4Y",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "GD Ethan",
+            "link": "https://www.youtube.com/watch?v=eSyjDJjNSTs",
+            "percent": 100,
+            "hz": 150
+        },
+      {
+            "user": "femboyuk",
+            "link": "https://youtu.be/UzU4kiQoJRE?si=6RajNovn6_UUuM_7",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "OJB",
+            "link": "https://www.youtube.com/watch?v=sbgSZ_7aGUY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
