@@ -1,0 +1,18 @@
+{
+    "id": 57208977,
+    "name": "Alcatraz",
+    "author": "Asuith",
+    "creators": ["Asuith & more"],
+    "verifier": "Sayne",
+    "verification": "https://www.youtube.com/watch?v=6eDY-oFx_DE",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=JZKEdMzJoO0",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
