@@ -1,0 +1,30 @@
+{
+    "id": 48454650,
+    "name": "Penombre",
+    "author": "ZephiroX",
+    "creators": ["ZephiroX"],
+    "verifier": "Telos",
+    "verification": "https://youtu.be/YJoPpdAxnm0?si=LSxA_2x76qEPWkY1",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Reet",
+            "link": "https://www.youtube.com/watch?v=DST1LoLBIAw",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=MUjgGkR4WBE",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=1_tA-CUWPa0",
+            "percent": 100,
+            "hz": 330
+        }
+    ]
+}
