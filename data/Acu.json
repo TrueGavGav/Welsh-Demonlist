@@ -1,0 +1,78 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "Neigefeu",
+    "creators": ["Neigefeu"],
+    "verifier": "Reet",
+    "verification": "https://www.youtube.com/watch?v=YuCkp3c18pU",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/c51RawWEy8c",
+            "percent": 100,
+            "hz": 144
+        },
+      {
+            "user": "Sayne",
+            "link": "https://www.youtube.com/watch?v=PoI12TVcsU8",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=uIk4C1tffL0&t=16s",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Borto",
+            "link": "https://www.youtube.com/watch?v=7lTsm7Lr19s",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "GD Ethan",
+            "link": "https://www.youtube.com/watch?v=zYY886KbZOA",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=RBzGdLolAf0",
+            "percent": 100,
+            "hz": 144
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=iPtuQNPygGk",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Ajay",
+            "link": "https://www.youtube.com/watch?v=wL4y4GKXKIw",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=vj1qFo5Y6a0",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "femboyuk",
+            "link": "https://youtu.be/lo-HFKmLbxk?si=cEk1GJSVEAK8tfkj",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "OJB",
+            "link": "https://www.youtube.com/watch?v=v6KfjpCorE8",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
