@@ -1,0 +1,24 @@
+{
+    "id": 71728635,
+    "name": "Helios",
+    "author": "Canonlaw",
+    "creators": ["Canonlaw & more"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=nuMwehLaowc",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Unitive kitty",
+            "link": "https://www.youtube.com/watch?v=flga_GKzBUY",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=cTXhDC29hfY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
