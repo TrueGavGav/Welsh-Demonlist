@@ -1,0 +1,30 @@
+{
+    "id": 30219145,
+    "name": "HyperSonic",
+    "author": "ViPriN",
+    "creators": ["ViPriN & more"],
+    "verifier": "Luned",
+    "verification": "https://youtu.be/tWRdqdpC2ks",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Sayne",
+            "link": "https://www.youtube.com/watch?v=AcBwmMbZhIk",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=exqcLlPAziY",
+            "percent": 100,
+            "hz": 330
+        },
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=fbuYY-qr29Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
