@@ -1,0 +1,24 @@
+{
+    "id": 21280210,
+    "name": "The Flawless",
+    "author": "fin",
+    "creators": ["fin & more"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=ueXNFC5xl0o",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Dino",
+            "link": "https://www.youtube.com/watch?v=wAFZqTG8cGY",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=uLDfFwX6lEY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
