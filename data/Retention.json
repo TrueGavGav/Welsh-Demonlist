@@ -1,0 +1,24 @@
+{
+    "id": 18697406,
+    "name": "Retention",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411"],
+    "verifier": "Drige",
+    "verification": "https://www.youtube.com/watch?v=aMEFLsXH8UY&t=1s",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/1BVO_dGt1eU",
+            "percent": 100,
+            "hz": 144
+        },
+      {
+            "user": "Damien",
+            "link": "https://www.youtube.com/watch?v=5fEAhjz4P44",
+            "percent": 100,
+            "hz": 140
+        }
+    ]
+}
