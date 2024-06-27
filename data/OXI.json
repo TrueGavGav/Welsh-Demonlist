@@ -1,0 +1,18 @@
+{
+    "id": 103411024,
+    "name": "OXI",
+    "author": "Sycro",
+    "creators": ["Sycro"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=BnoM_nrsWM8",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/a06R1ROnHdE",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
