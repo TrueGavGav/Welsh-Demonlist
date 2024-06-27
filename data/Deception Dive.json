@@ -1,0 +1,18 @@
+{
+    "id": 34379100,
+    "name": "Deception Dive",
+    "author": "Rustam",
+    "creators": ["Rustam & More"],
+    "verifier": "Telos",
+    "verification": "https://youtu.be/YHW45H_4d34?si=kJFNjRv5czd4iYEb",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Ajay",
+            "link": "https://www.youtube.com/watch?v=I_sJxl6_lm4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
