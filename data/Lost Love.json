@@ -1,0 +1,30 @@
+{
+    "id": 85933508,
+    "name": "Lost Love",
+    "author": "TheBlackHell",
+    "creators": ["TheBlackHell"],
+    "verifier": "Unitive kitty",
+    "verification": "https://www.youtube.com/watch?v=buZFFlnxhLo",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "femboyuk_",
+            "link": "https://www.youtube.com/watch?v=G9NvoGoKejI&list=PLZxONrNiVEkdHrWVQVOJnp_K_5S4-Mr0f&index=6",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "Drige",
+            "link": "https://youtu.be/djkSWGUjhs4",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "J03B",
+            "link": "https://www.youtube.com/watch?v=KSbAvu5ouHY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
