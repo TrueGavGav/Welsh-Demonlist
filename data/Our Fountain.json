@@ -1,0 +1,18 @@
+{
+    "id": 58023558,
+    "name": "Our Fountain",
+    "author": "LP44",
+    "creators": ["LP44"],
+    "verifier": "Sayne",
+    "verification": "https://www.youtube.com/watch?v=VHT3zad3zVM",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Drige",
+            "link": "https://www.youtube.com/watch?v=GXqfIyzyC74",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
