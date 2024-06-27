@@ -1,0 +1,18 @@
+{
+    "id": 91782999,
+    "name": "High Heat",
+    "author": "BiBox",
+    "creators": ["BiBox & more"],
+    "verifier": "J03B",
+    "verification": "https://www.youtube.com/watch?v=D3jeAhumjKU",
+    "percentToQualify": "100",
+    "password": "???",
+    "records": [
+      {
+            "user": "Luned",
+            "link": "https://youtu.be/U1S5CzjFJio",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
